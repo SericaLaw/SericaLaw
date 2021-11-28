@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" height="160px" src="https://cdn.jsdelivr.net/gh/SericaLaw/images@master/20211128/ezgif-7-18d120499ce2.gif" />
+<img align="right" alt="GIF" height="150px" src="https://cdn.jsdelivr.net/gh/SericaLaw/images@master/20211128/ezgif-7-18d120499ce2.gif" />
 
 - 🌱 I’m currently studying at Zhejiang University, from Sep 2020 to June 2023.
 - ⚡ I'm looking for 2022 summer internship.
