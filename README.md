@@ -2,21 +2,6 @@
 
 ### Hi there, I'm [Serica](https://www.iserica.com) 👋
 
-<!--
-**SericaLaw/SericaLaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🌱 I’m currently studying at Zhejiang University, from Sep 2020 to June 2023.
 - ⚡ I'm looking for 2022 summer internship.
 - 💬 Ask me about anything.
@@ -34,9 +19,6 @@ Here are some ideas to get you started:
 |<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gin-gonic&repo=gin&show_owner=true" /></a>|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=docker-bench-security&show_owner=true" /></a>|
 | ------------- | ------------- |
 |<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquasecurity&repo=tracee&show_owner=true" /></a>|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smallnest&repo=rpcx&show_owner=true" /></a>|
-
-
-
 
 > Special Thanks ✨
 > 
