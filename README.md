@@ -23,7 +23,7 @@
 
 ![img](https://github-readme-stats.vercel.app/api?username=sericalaw&show_icons=true)
 
-#### Selected Contributions 🎨
+### Selected Contributions 🎨
 
 |<a href="https://github.com/gin-gonic/gin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gin-gonic&repo=gin&show_owner=true" /></a>|<a href="https://github.com/docker/docker-bench-security"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=docker-bench-security&show_owner=true" /></a>|
 | ------------- | ------------- |
