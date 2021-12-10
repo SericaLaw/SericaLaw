@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" height="200px" src="https://cdn.jsdelivr.net/gh/SericaLaw/images@master/20211128/ezgif-7-18d120499ce2.gif" />
-
 ### Hi there, I'm [Serica](https://www.iserica.com) 👋
+
+<img align="right" alt="GIF" height="200px" src="https://cdn.jsdelivr.net/gh/SericaLaw/images@master/20211128/ezgif-7-18d120499ce2.gif" />
 
 - 🌱 I’m currently studying at Zhejiang University, from Sep 2020 to June 2023.
 - ⚡ I'm looking for 2022 summer internship.
