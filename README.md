@@ -25,9 +25,9 @@
 
 #### Selected Contributions 🎨
 
-|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gin-gonic&repo=gin&show_owner=true" /></a>|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=docker-bench-security&show_owner=true" /></a>|
+|<a href="https://github.com/gin-gonic/gin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gin-gonic&repo=gin&show_owner=true" /></a>|<a href="https://github.com/docker/docker-bench-security"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=docker&repo=docker-bench-security&show_owner=true" /></a>|
 | ------------- | ------------- |
-|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquasecurity&repo=tracee&show_owner=true" /></a>|<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smallnest&repo=rpcx&show_owner=true" /></a>|
+|<a href="https://github.com/aquasecurity/tracee"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquasecurity&repo=tracee&show_owner=true" /></a>|<a href="https://github.com/smallnest/rpcx"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smallnest&repo=rpcx&show_owner=true" /></a>|
 
 > Special Thanks ✨
 > 
