@@ -1,5 +1,3 @@
-
-
 <img align="right" alt="GIF" height="200px" src="https://cdn.jsdelivr.net/gh/SericaLaw/images@master/20211128/ezgif-7-18d120499ce2.gif" />
 
 ### Hi there, I'm [Serica](https://www.iserica.com) 👋
